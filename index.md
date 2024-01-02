@@ -2,4 +2,4 @@
 
 The content of this page is currently nowhere to be found. Come back later for more information.
 
-![Not Found Cat](https://http.cat/404)
+![I am not a teapot!!](https://http.cat/418)
